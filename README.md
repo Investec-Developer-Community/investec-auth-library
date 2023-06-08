@@ -1,6 +1,6 @@
 # Investec Auth Library
 
-A simple login type component which assist with the Authentication process for the Investec Programmable Banking API.
+A simple login type component which assists with the Authentication flow for the Investec Programmable Banking API.
 
 ![Example](/docs/Example_Auth.png)
 
