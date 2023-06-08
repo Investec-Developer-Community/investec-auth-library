@@ -54,6 +54,13 @@
     "typescript": "^5.0.2",
     "vite": "^4.3.9"
   },
-  "author": "Dominic Santo",
-  "license": "MIT"
+  "author": "Make",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/programmable-banking-community/investec-auth-library/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programmable-banking-community/investec-auth-library"
+  }
 }
