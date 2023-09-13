@@ -1,3 +1,7 @@
+## 🌟 Community-Powered Repository 🌟
+
+This repository is crafted with ❤️ by our talented community members. It's a space for everyone to use, contribute to, and share. While it aligns with the spirit of our community, please note that this repo is not directly endorsed or supported by Investec. Always exercise caution and discretion when using or contributing to community-driven projects.
+
 # Investec Auth Library
 
 A simple login type component which assists with the Authentication flow for the Investec Programmable Banking API.
